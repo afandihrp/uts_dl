@@ -1,0 +1,17 @@
+{
+  "chosen_model": "linear",
+  "metrics_linear": {
+    "MSE": 88.82674640795422,
+    "RMSE": 9.424794236902693,
+    "MAE": 6.71611006264614,
+    "R2": 0.2536509561396968
+  },
+  "metrics_small": {
+    "MSE": 336.29299216531075,
+    "RMSE": 18.338293054843213,
+    "MAE": 12.80387335524321,
+    "R2": -1.8256348826148652
+  },
+  "scaler_path": "/home/apalah/Documents/uts/regresion/scaler.save",
+  "model_path": "/home/apalah/Documents/uts/regresion/best_regression_model.h5"
+}
