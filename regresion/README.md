@@ -1,6 +1,7 @@
 📝 Tujuan Proyek
 
 Proyek ini bertujuan untuk membangun dan mengevaluasi model regresi pembelajaran mendalam menggunakan TensorFlow/Keras untuk memprediksi tahun rilis (kolom target) dari dataset midterm-regresi-dataset.csv berdasarkan 90 fitur akustik dan kontekstual lainnya.
+
 🚀 Ringkasan Metodologi
 
     Pemuatan Data: Dataset dimuat tanpa header di mana kolom pertama (Tahun Rilis) ditetapkan sebagai variabel target (y) dan 90 kolom sisanya sebagai fitur (X).
